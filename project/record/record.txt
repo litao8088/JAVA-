@@ -1,0 +1,7 @@
+easy level	6	26	16.0
+easy level	6	26	16.0
+easy level	6	26	16.0	
+easy level	6	14	10.0	
+normal level	33	52	42.5	
+normal level	16	44	30.0	
+easy level	6	49	27.5	
